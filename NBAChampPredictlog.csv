@@ -1,0 +1,451 @@
+Rk,y
+1,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+2,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+3,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+4,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+5,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+6,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+7,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+8,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+9,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+10,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+11,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+12,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+13,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+14,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+15,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+16,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+17,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+18,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+19,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+20,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+21,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+22,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+23,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+24,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+25,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+26,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+27,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+28,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+29,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
+30,"LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty=    Rk    FG   FGA  FG_Percent   x3P  x3PA  3P_Percent   x2P  x2PA  \
+0    1  43.8  87.4       0.501  12.0  31.7       0.380  31.8  55.7
+1    2  39.7  87.9       0.452  11.0  30.2       0.363  28.8  57.8
+2    3  38.9  87.1       0.447   8.5  24.7       0.343  30.5  62.4
+3    4  38.6....3
+26  20.9  103.2
+27  20.3   97.3
+28  20.8  103.9
+29  19.6   92.1
+
+[30 rows x 22 columns],
+          random_state=None, solver='liblinear', tol=0.0001, verbose=0,
+          warm_start=False)"
